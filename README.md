@@ -1,5 +1,2 @@
 # apPETite
-This repo contains computational/dry lab protion of 2021 UIUC iGEM project.
-
-# Files
-*sequences-final.txt* is an input file for our machine learning algorithm.
+Welcome! This GitHub repository is home to all the data and results of the computational portion of UIUC iGEM's project. This is also home to the source code for our package, which you can download from the homepage.
