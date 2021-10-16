@@ -4,4 +4,7 @@ Welcome! This GitHub repository is home to all the data and results of the compu
 ## Sequence outputs
 This folder contains the outputs of our final pipeline.
 
-## PD_RNN_
+## PD_RNN_V2_newseq.ipynb
+This Jupyter notebook contains the final pipeline for our model.
+
+
