@@ -7,5 +7,5 @@ This folder contains the outputs of our pipeline.
 ## PD_RNN_V2_newseq.ipynb
 This Jupyter notebook contains the final pipeline for our model.
 
-## sequences_final.txt
+## sequences-final.txt
 This file contains the set of sequences we used to train our machine learning model.
